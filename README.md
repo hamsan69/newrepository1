@@ -1,2 +1,2 @@
-# newrepository1
- testrepository
+perfect_ai_signal_bot.py
+requirements.txt
